@@ -15,6 +15,10 @@
 <h3>🤗목표</h3>
 <ul>Spring Boot(JAVA)를 활용한 백엔드 분야에 관심이 많으며, 현재 aws를 통해 올린 코드를 더 나은 서비스로 발전키는 것이 현재 목표입니다.</ul>
 
+<h3>보유 자격증</h3>
+<ul>- 정보처리기사</ul>
+<ul>- 네트워크 관리사 2급</ul>
+
 <h3>🛠사용언어</h3>
 <ul>
   <div style="display:flex; flex-direction:column; align-items:flex-start;">
