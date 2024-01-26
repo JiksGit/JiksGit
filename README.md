@@ -7,12 +7,12 @@
 <ul>2번의 프로젝트를 통해, Yolo5를 활용한 요리 추천 웹서비스와 토마토잎 질병 분류 웹서비스를 AWS에 올린 경험이 있습니다.</ul>
 <ul>또한 프로젝트를 하기 위해 인프런 사이트에서 우아한형제들 최연소 기술이사 출신 김영한의 "스프링 완전 정복" 강의를 스터디 하였습니다.</ul>
 
-#### 참고: JiksGit Repository
+#### #참고: JiksGit Repository
   - Spring 게시판 만들기 프로젝트(3-2 서버프로그래밍 수업)
     + Spring ShoppingMall(심화과정 - 클론코딩)
   - #### 토마토잎 질병 분류 웹서비스(AWS활용)
 
-#### 참고: JiksGit Organization
+#### #참고: JiksGit Organization
   - #### Yolo5를 활용한 요리 추천 웹서비스
   - #### 인프런 김영한 - "스프링 완전 정복" 스터디
 
