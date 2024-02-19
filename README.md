@@ -9,7 +9,7 @@
 
 #### #참고: JiksGit Repository
   - Spring 게시판 만들기 프로젝트(3-2 서버프로그래밍 수업)
-    + Spring ShoppingMall(심화과정 - 클론코딩)
+    + [Spring ShoppingMall(심화과정 - 클론코딩)](http://www.naver.com/)
   - #### 토마토잎 질병 분류 웹서비스(AWS활용)
 
 #### #참고: JiksGit Organization
