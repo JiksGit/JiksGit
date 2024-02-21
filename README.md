@@ -14,7 +14,7 @@
 
 #### #참고: JiksGit Organization
   - #### [YOLOv5를 활용한 요리 추천 웹서비스](https://github.com/Gachon-Project)
-  - #### [인프런 김영한 - "스프링 완전 정복" 스터디](https://github.com/Inflearn-Springboot)
+  - #### [인프런 김영한 - "스프링 완전 정복" 스터디](https://github.com/Inflearn-Springboot) - 취준할 때만 public
 
 <h3>🤗목표</h3>
 <ul>Spring Boot(JAVA)를 활용한 백엔드 분야에 관심이 많으며, 현재 aws를 통해 올린 코드를 더 나은 서비스로 발전키는 것이 현재 목표입니다.</ul>
