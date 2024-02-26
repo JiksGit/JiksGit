@@ -7,6 +7,8 @@
 <ul>2번의 팀프로젝트를 진행하였고, YOLOv5를 활용한 요리 추천 웹서비스와 토마토잎 질병 분류 웹서비스를 AWS에 올린 경험이 있습니다.</ul>
 <ul>또한 프로젝트를 완성도 있게 만들기 위해 인프런 사이트에서 우아한형제들 최연소 기술이사 출신 김영한의 "스프링 완전 정복" 강의를 스터디하고 있습니다.</ul>
 
+Notion 주소 : [양현직의 Notion](https://www.notion.so/JAVA-31d0e187114b48f18efa376033c33308)
+
 #### #참고: JiksGit Repository
   - [Spring 게시판 만들기 프로젝트(3-2 서버프로그래밍 수업)](https://github.com/JiksGit/SpringBoard)
     + [Spring ShoppingMall(심화과정 - 클론코딩)](https://github.com/JiksGit/Spring_ShoppingMall-CloneCoding-)
@@ -18,6 +20,7 @@
 
 #### 기타 공부
   -  [알고리즘 공부](https://github.com/JiksGit/Java-CodingTest)
+
 <h3>🤗목표</h3>
 <ul>Spring Boot(JAVA)를 활용한 백엔드 분야에 관심이 많으며, 현재 aws를 통해 올린 코드를 더 나은 서비스로 발전키는 것이 현재 목표입니다. 그러기 위해서 김영한의 "스프링 완전 정복" 강의를 깊게 공부하며 프로젝트에 적용하고 있습니다. 또한 알고리즘 공부를 병행하고 있습니다. </ul>
 
