@@ -9,12 +9,12 @@
 
 ### Notion 주소 : [양현직의 Notion](https://www.notion.so/JAVA-31d0e187114b48f18efa376033c33308)
 
-#### #참고: JiksGit Repository
+#### 참고: JiksGit Repository
   - [Spring 게시판 만들기 프로젝트(3-2 서버프로그래밍 수업)](https://github.com/JiksGit/SpringBoard)
     + [Spring ShoppingMall(심화과정 - 클론코딩)](https://github.com/JiksGit/ShopingMall)
   - #### [토마토잎 질병 분류 웹서비스(Spring, AWS활용)](https://github.com/JiksGit/TomatoSpring)
 
-#### #참고: JiksGit Organization
+#### 참고: JiksGit Organization
   - #### [YOLOv5를 활용한 요리 추천 웹서비스](https://github.com/Gachon-Project)
   - #### [인프런 김영한 - "스프링 완전 정복" 스터디](https://github.com/Inflearn-Springboot)
 
