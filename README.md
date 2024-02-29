@@ -7,7 +7,7 @@
 <ul>2번의 팀프로젝트를 진행하였고, YOLOv5를 활용한 요리 추천 웹서비스와 토마토잎 질병 분류 웹서비스를 AWS에 올린 경험이 있습니다.</ul>
 <ul>또한 프로젝트를 완성도 있게 만들기 위해 인프런 사이트에서 우아한형제들 최연소 기술이사 출신 김영한의 "스프링 완전 정복" 강의를 스터디하고 있습니다.</ul>
 
-Notion 주소 : [양현직의 Notion](https://www.notion.so/JAVA-31d0e187114b48f18efa376033c33308)
+### Notion 주소 : [양현직의 Notion](https://www.notion.so/JAVA-31d0e187114b48f18efa376033c33308)
 
 #### #참고: JiksGit Repository
   - [Spring 게시판 만들기 프로젝트(3-2 서버프로그래밍 수업)](https://github.com/JiksGit/SpringBoard)
