@@ -1,73 +1,64 @@
-<h1 align="center">JIK'S GitHub</h1>
+# JIK'S GitHub Portfolio
 
-<h3>소개</h3>
-<ul>안녕하세요! 가천대학교 컴퓨터공학과 8월 졸업하였으며 취업 준비중에 있습니다.</ul>
+## 📚 **소개**
+안녕하세요! 저는 **가천대학교 컴퓨터공학과**를 8월에 졸업하고 취업을 준비 중인 **양현직**입니다. **백엔드 개발**에 강한 관심을 가지고 있으며, 특히 **Spring Boot**를 활용한 **Java** 개발에 열정을 가지고 있습니다. 실무에서의 경험을 쌓기 위해 더욱 성장하고 있는 중입니다.
 
-<h3>프로젝트</h3>
-<ul>2번의 팀프로젝트를 진행하였고, YOLOv5를 활용한 요리 추천 웹서비스 개발과 토마토잎 질병 분류 웹서비스를 AWS에 올린 경험이 있습니다.</ul>
-<ul>또한 프로젝트를 완성도 있게 만들기 위해 인프런 사이트에서 우아한형제들 최연소 기술이사 출신 김영한의 "스프링 완전 정복" 강의를 스터디하고 있습니다.</ul>
+## 🛠 **기술 스택**
 
-### Notion 주소 : [양현직의 Notion](https://www.notion.so/JAVA-31d0e187114b48f18efa376033c33308)
+### **Backend (주 사용언어)**
+- **Java**, **Spring Boot**
 
-#### 참고: JiksGit Repository
-  - [Spring 게시판 만들기 프로젝트(3-2 서버프로그래밍 수업)](https://github.com/JiksGit/SpringBoard)
-    + [Spring ShoppingMall(심화과정 - 클론코딩)](https://github.com/JiksGit/ShopingMall)
-  - #### [토마토잎 질병 분류 웹서비스(Spring, AWS활용)](https://github.com/JiksGit/TomatoSpring)
+### **Database**
+- **MySQL**, **Oracle**
 
-#### 참고: JiksGit Organization
-  - #### [YOLOv5를 활용한 요리 추천 웹서비스](https://github.com/Gachon-Project)
-  - #### [인프런 김영한 - "스프링 완전 정복" 스터디](https://github.com/Inflearn-Springboot)
+### **Server**
+- **Linux**, **Apache Tomcat**, **AWS**
 
-#### 기타 공부
-  -  [알고리즘 공부](https://github.com/JiksGit/Java-CodingTest)
-  -  [빅데이터 크롤링 학습](https://github.com/JiksGit/BigData)
+### **Frontend**
+- **HTML5**, **CSS3**, **JavaScript**, **React**, **Bootstrap**
 
-<h3>🤗목표</h3>
-<ul>Spring Boot(JAVA)를 활용한 백엔드 분야에 관심이 많으며, 현재 aws를 통해 올린 코드를 더 나은 서비스로 발전키는 것이 현재 목표입니다. 그러기 위해서 김영한의 "스프링 완전 정복" 강의를 깊게 공부하며 프로젝트에 적용하고 있습니다. 또한 알고리즘 공부를 병행하며 Notion에 정리중에 있습니다. 실무에서 필요한 git 또한 실습하며 배우는 중입니다. </ul>
+### **기타 (사용해본 언어)**
+- **Kotlin**, **Python**, **Android Studio**
 
-<h3>보유 자격증</h3>
+---
 
-<ul>정보처리기사</ul>
-<ul>네트워크 관리사 2급</ul>
-<ul>SQLD(SQL 개발자)</ul>
+## 📂 **프로젝트**
 
-<h3>🛠사용언어</h3>
-<ul>
-  <div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Backend -->
-    <p><strong>Backend(주 사용언어)</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
-    </div>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    </div>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-    </div>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-    </div>
-    <!-- Others -->
-    <p><strong>Others(사용해보았던 언어)</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-</div><br>
-</div>
-</ul>
+### **1. [YOLOv5를 활용한 요리 추천 웹서비스](https://github.com/Gachon-Project)**
+- **목표**: 사용자가 업로드한 사진을 분석하여 적합한 요리를 추천해주는 웹서비스 개발.
+- **기술**: **YOLOv5** (AI 모델), **Flask** (서버 프레임워크), **React** (Frontend)
+- **주요 역할**: YOLOv5 AI 모델 학습 및 웹서비스 통합, **Kakao Map API**를 활용하여 위치 기반 정보 제공.
+- **배운 점**: 인공지능 모델을 웹서비스에 통합하는 경험을 통해 AI와 서버 간의 연동 및 최적화 작업을 익혔습니다.
+
+### **2. [토마토잎 질병 분류 웹서비스](https://github.com/JiksGit/TomatoSpring)**
+- **목표**: 토마토 잎 사진을 분석하여 병명과 정보를 제공하는 웹서비스 개발.
+- **기술**: **Spring Boot**, **Spring Security**, **JWT**, **AWS EC2**, **Docker**
+- **주요 역할**: Spring 기반의 **댓글 기능**, **회원 가입**, **보안 강화** (JWT 인증), **Docker AWS EC2** 배포.
+- **배운 점**: 백엔드 개발, 보안 및 배포 관련 실무 경험을 쌓았으며, Docker와 AWS를 활용한 클라우드 환경에서의 배포 경험을 얻었습니다.
+
+---
+
+## 📚 **학습 및 스터디**
+
+### **[인프런 김영한 - "스프링 완전 정복" 스터디](https://github.com/Inflearn-Springboot)**
+- **목표**: 스프링의 핵심 개념과 고급 기술들을 깊이 있게 학습하고 실무에 적용하기 위해 김영한의 강의를 스터디 중입니다.
+
+### **[알고리즘 공부](https://github.com/JiksGit/Java-CodingTest)**
+- **목표**: 알고리즘 문제 해결 능력 향상, **백준** 문제 풀이 및 학습.
+
+---
+
+## 🎯 **목표**
+저는 **Spring Boot(JAVA)**를 활용한 백엔드 분야에서의 경력을 쌓고 있습니다. 현재 AWS를 통해 서비스 배포 및 관리 경험을 쌓고 있으며, 이를 더 나은 서비스로 발전시키는 것을 목표로 하고 있습니다. 또한 알고리즘 문제 풀이와 실무에서 필요한 **Git** 사용법을 익히며 **협업 능력**을 기르고 있습니다.
+
+---
+
+## 🏆 **자격증**
+- **정보처리기사**
+- **네트워크 관리사 2급**
+- **SQLD(SQL 개발자)**
+
+---
+
+### **📜 Notion**  
+[양현직의 Notion](https://www.notion.so/JAVA-31d0e187114b48f18efa376033c33308)
