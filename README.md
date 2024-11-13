@@ -9,7 +9,7 @@
 - **Java**, **Spring Boot**
 
 ### **Database**
-- **MySQL**, **Oracle**
+- **MySQL**, **Oracle**, **MariaDB**
 
 ### **Server**
 - **Linux**, **Apache Tomcat**, **AWS**
