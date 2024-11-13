@@ -17,8 +17,8 @@
 ### **Frontend**
 - **HTML5**, **CSS3**, **JavaScript**, **React**, **Bootstrap**
 
-### **기타 (사용해본 언어)**
-- **Kotlin**, **Python**, **Android Studio**
+### **기타**
+- **Kotlin**, **Python**, **Node.js**, **Android Studio**
 
 ---
 
