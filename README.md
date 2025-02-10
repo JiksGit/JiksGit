@@ -1,24 +1,31 @@
 # JIK'S GitHub Portfolio
 
 ## 📚 **소개**
-안녕하세요! 저는 **가천대학교 컴퓨터공학과**를 8월에 졸업하고 취업을 준비 중인 **양현직**입니다. **Java 백엔드 개발**에 강한 관심을 가지고 있으며, 특히 **Spring Boot**를 활용한 **Java** 개발에 열정을 가지고 있습니다. 실무에서의 경험을 쌓기 위해 더욱 성장하고 있는 중입니다. 현재 MSA 아키텍처와 쿠버네티스를 공부하기 위해 인프런 강의를 통한 개발 공부를 진행중에 있습니다.
+안녕하세요! 저는 **가천대학교 컴퓨터공학과**를 8월에 졸업하고 취업을 준비 중인 **양현직**입니다. **Java 백엔드 개발**에 강한 관심을 가지고 있으며, 특히 **Spring Boot(JAVA)**를 활용하면서 백엔드 개발자에 흥미를 가지게 됐습니다. 졸업 후 Spring Framework, Java, Redis, Docker, MicroService Architecture를 배우고 정리중에 있으며 현재는 쿠버네티스를 배우며 새로운 개발 환경에 적응하고 있습니다.
 
 ## 🛠 **기술 스택**
 
-### **Backend (주 사용언어)**
-- **Java**, **Spring Boot**
+### **Back-end**
+
+- **Java(주)**, **Node.js**
+
+### **Frontend**
+
+- **HTML5**, **CSS3**, **JavaScript**, **React**, **Bootstrap**
+
+### **프레임워크**
+
+- **Spring**, **Express**
 
 ### **Database**
 - **MySQL**, **Oracle**, **MariaDB**
 
 ### **Server**
-- **Linux**, **Apache Tomcat**, **AWS**
 
-### **Frontend**
-- **HTML5**, **CSS3**, **JavaScript**, **React**, **Bootstrap**
+- **Linux**, **Apache Tomcat**, **AWS**, **Docker**
 
 ### **기타**
-- **Kotlin**, **Python**, **Node.js**, **Android Studio**
+- **Kotlin**, **Python**, **Android Studio**
 
 ---
 
@@ -48,12 +55,8 @@
 
 ---
 
-## 🎯 **목표**
-저는 **Spring Boot(JAVA)**를 활용한 백엔드 분야에서의 경력을 쌓고 있습니다. 현재 AWS를 통해 서비스 배포 및 관리 경험을 쌓고 있으며, 이를 더 나은 서비스로 발전시키는 것을 목표로 하고 있습니다. 또한 알고리즘 문제 풀이와 실무에서 필요한 **Git** 사용법을 익히며 **협업 능력**을 기르고 있습니다.
-
----
-
 ## 🏆 **자격증**
+
 - **정보처리기사**
 - **네트워크 관리사 2급**
 - **SQLD(SQL 개발자)**
