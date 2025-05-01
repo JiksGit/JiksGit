@@ -1,13 +1,13 @@
 # JIK'S GitHub Portfolio
 
 ## 📚 **소개**
-안녕하세요! 저는 **가천대학교 컴퓨터공학과**를 8월에 졸업하고 취업을 준비 중인 **양현직**입니다. **Java 백엔드 개발**에 강한 관심을 가지고 있으며, 특히 **Spring Boot(JAVA)**를 활용하면서 백엔드 개발자에 흥미를 가지게 됐습니다. 졸업 후 Spring Framework, Java, Redis, Docker, MicroService Architecture를 배우고 정리중에 있으며 현재는 쿠버네티스를 배우며 새로운 개발 환경에 적응하고 있습니다.
+안녕하세요! 저는 **가천대학교 컴퓨터공학과**를 졸업한 **양현직**입니다. **Java 백엔드 개발**에 강한 관심을 가지고 있으며, 특히 **Spring Boot(JAVA)**를 활용하면서 백엔드 개발자에 흥미를 가지게 됐습니다. 
 
 ## 🛠 **기술 스택**
 
 ### **Back-end**
 
-- **Java(주)**, **Node.js**
+- **Java(주)**, **Node.js**,  **Python**
 
 ### **Frontend**
 
@@ -24,8 +24,6 @@
 
 - **Linux**, **Apache Tomcat**, **AWS**, **Docker**
 
-### **기타**
-- **Kotlin**, **Python**, **Android Studio**
 
 ---
 
