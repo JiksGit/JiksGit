@@ -59,7 +59,3 @@
 - **네트워크 관리사 2급**
 - **SQLD(SQL 개발자)**
 
----
-
-### **Notion**  
-[양현직의 Notion](https://www.notion.so/JAVA-31d0e187114b48f18efa376033c33308)
