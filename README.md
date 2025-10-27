@@ -10,8 +10,6 @@ Redis를 이용한 **실시간 채팅 시스템**과 사용자 인증 구조(JWT
 
 변화하는 환경 속에서도 항상 ‘**더 효율적인 시스템은 어떻게 만들어질까**’를 고민하며, 안정적이고 성능 좋은 서비스를 만들어가는 백엔드 개발자가 되고자 합니다.
 
-[![JiksGit](https://github-readme-stats.vercel.app/api/top-langs/?username=JiksGit)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠 **기술 스택**
 
 ### **Back-end**
