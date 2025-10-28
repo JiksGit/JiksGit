@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=JiksGit&section=header&reversal=false&textBg=false&fontColor=black&fontAlign=50&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JiksGit&section=header&reversal=false&textBg=false&fontColor=black&fontAlign=50&animation=fadeIn)
 
 ## 💻  Java & Spring Boot 기반 서비스 아키텍처 설계자 | Back-end Developer 백엔드 개발자
 단순히 “작동하는 코드”보다 **확장성과 안정성**을 갖춘 백엔드 시스템을 설계합니다.  
