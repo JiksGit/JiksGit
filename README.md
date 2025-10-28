@@ -19,24 +19,57 @@ Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA �
 
 ## 🛠 Tech Stack
 
+### 🧩 Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-FF6C37?style=flat-square&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
+
+> Java 기반 백엔드 서버 및 인증 구조(Spring Security + JWT) 설계  
+> ORM & Mapper 병행 사용 경험 (MyBatis / JPA)
+
+---
+
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### Core Skills
-- Java, Spring Frameworks, Spring Boot, Spring Security, JWT  
-- React, Vue  
-- MyBatis, JPA, jQuery  
-- MySQL, Redis  
-- Naver Cloud, AWS, Docker, Nginx  
-- Version Control: Git, GitHub, SourceTree  
-- API Testing: Postman  
+> React·Vue 기반 SPA 및 JSP 기반 SSR 프로젝트 경험  
+> UI 프레임워크 활용 및 데이터 바인딩 구조 설계
+
+---
+
+### 🗄️ Database & Cache
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+> 관계형 DB 설계 및 Redis 기반 캐싱·실시간 데이터 처리 구현
+
+---
+
+### ☁️ Infra & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+> 클라우드 환경에서 CI/CD 및 컨테이너 기반 배포 환경 구성  
+> Nginx 리버스 프록시 및 로드밸런싱 설정 경험
+
+---
+
+### 🧠 Tools & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+> Git 브랜치 전략 기반 협업 / API 테스트 자동화 / 코드 리뷰 환경 구성
+
 
 ---
 
@@ -85,12 +118,17 @@ AI 모델과 Spring 서버를 연동해 실서비스를 완성했습니다.
 
 ---
 
-## 📚 Learning & Study
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiksGit&layout=compact&theme=default" height="150">
+  <img src="https://streak-stats.demolab.com/?user=JiksGit&theme=swift" height="150">
+</p>
 
-- **인프런 김영한 – “스프링 완전 정복” 시리즈 스터디 중**  
-  → 스프링 코어부터 JPA, Security까지 실무 수준으로 학습  
-- **알고리즘 학습 (백준 / 프로그래머스)**  
-  → 문제 해결력 및 코드 효율성 향상  
+<p align="center">
+  <a href="https://solved.ac/didguswlr">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=didguswlr" height="150">
+  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiksGit&theme=github_dark" height="150">
+</p>
 
 ---
 
