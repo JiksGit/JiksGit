@@ -1,9 +1,8 @@
-# 👋 JiksGit에 오신 것을 환영합니다
+![](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=JiksGit&section=header&reversal=false&textBg=false&fontColor=black&fontAlign=50&animation=fadeIn)
 
-## 💻 Back-end Developer | Java & Spring Boot 기반 서비스 아키텍처 설계자  
+## 💻  Java & Spring Boot 기반 서비스 아키텍처 설계자 | Back-end Developer 백엔드 개발자
 단순히 “작동하는 코드”보다 **확장성과 안정성**을 갖춘 백엔드 시스템을 설계합니다.  
-Spring Boot 기반 **MSA**, **Redis 실시간 처리**, **Docker 클라우드 배포** 등  
-아이디어를 실제 서비스로 구현하는 개발자입니다.
+Spring Boot 기반 **MSA**, **Redis 실시간 처리** 등 아이디어를 실제 서비스로 구현하는 개발자입니다.
 
 ---
 
@@ -14,8 +13,7 @@ Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA �
 또한 **Redis 기반 실시간 채팅 시스템**과 **JWT 인증 구조**를 직접 설계해  
 실시간성, 보안성, 확장성을 모두 갖춘 서버 환경을 구축했습니다.
 
-“**더 효율적인 시스템은 어떻게 만들 수 있을까?**”  
-이 질문이 저를 움직이게 합니다.
+“**더 효율적인 시스템은 어떻게 만들 수 있을까?**” 
 
 ---
 
