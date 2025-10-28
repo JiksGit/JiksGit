@@ -1,12 +1,12 @@
 ![](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JiksGit&section=header&reversal=false&textBg=false&fontColor=black&fontAlign=50&animation=fadeIn)
 
-## 💻  Java & Spring Boot 기반 서비스 아키텍처 설계자 | Back-end Developer 백엔드 개발자
+## :technologist: Java & Spring Boot 기반 백엔드 개발자
 단순히 “작동하는 코드”보다 **확장성과 안정성**을 갖춘 백엔드 시스템을 설계합니다.  
 Spring Boot 기반 **MSA**, **Redis 실시간 처리** 등 아이디어를 실제 서비스로 구현하는 개발자입니다.
 
 ---
 
-## 🧠 About Me
+## :monocle_face: About Me
 
 최근에는 **‘K-pop 실시간 라이브 커머스 플랫폼 Universe’**를 개발하며  
 Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA 아키텍처**를 구현했습니다.  
@@ -17,7 +17,7 @@ Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA �
 
 ---
 
-## 🛠 Tech Stack
+## :card_file_box: Tech Stack
 
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -62,7 +62,7 @@ Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA �
 
 ---
 
-### 🧠 Tools & Collaboration
+### :busts_in_silhouette: Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
@@ -73,7 +73,7 @@ Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA �
 
 ---
 
-## 🚀 Projects
+## :iphone: Projects
 
 ### Project 1: K-pop 실시간 라이브 커머스 플랫폼 (Universe)  
 K-pop 관련 굿즈와 앨범을 실시간으로 판매할 수 있는 **라이브 커머스 플랫폼**을 개발했습니다.  
@@ -132,13 +132,13 @@ AI 모델과 Spring 서버를 연동해 실서비스를 완성했습니다.
 
 ---
 
-## 🪪 Certificates
+## :bookmark: Certificates
 - 정보처리기사  
 - 네트워크 관리사 2급  
 - SQLD (SQL 개발자)
 
 ---
 
-## 📫 Contact
+## :bulb: Contact
 - **Email:** yanghyunjik99@gmail.com  
 - **Portfolio (Notion):** [Notion Portfolio Link](https://chatter-glider-3f4.notion.site/292b5b4ec16181578fc5dc7a69780ad3)
