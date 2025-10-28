@@ -75,7 +75,7 @@ Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA �
 
 ## :iphone: Projects
 
-### Project 1: K-pop 실시간 라이브 커머스 플랫폼 (Universe)  
+### :clapper: Project 1: K-pop 실시간 라이브 커머스 플랫폼 (Universe)  
 K-pop 관련 굿즈와 앨범을 실시간으로 판매할 수 있는 **라이브 커머스 플랫폼**을 개발했습니다.  
 팀장으로서 **아키텍처 설계와 역할 분담**을 맡아,  
 다수의 사용자가 동시에 접속하는 환경을 고려해 **Spring Boot 기반 Gateway·Eureka 구조의 MSA 시스템**을 구축했습니다.  
@@ -90,7 +90,7 @@ K-pop 관련 굿즈와 앨범을 실시간으로 판매할 수 있는 **라이�
 
 ---
 
-### Project 2: 디지털 콘텐츠(이미지, BGM) 공유 플랫폼  
+### :framed_picture: Project 2: 디지털 콘텐츠(이미지, BGM) 공유 플랫폼  
 개발자와 디자이너가 프로젝트 제작에 필요한 **이미지와 BGM을 공유**할 수 있는 플랫폼을 개발했습니다.  
 팀장으로서 프로젝트 전반을 관리하며, **Spring Framework + MyBatis** 환경에서  
 상품 등록·수정·삭제 시 **트랜잭션 처리**를 적용해 데이터 무결성을 확보했습니다.  
@@ -104,7 +104,7 @@ K-pop 관련 굿즈와 앨범을 실시간으로 판매할 수 있는 **라이�
 
 ---
 
-### Project 3: 토마토 잎 질병 판별 웹서비스  
+### :herb: Project 3: 토마토 잎 질병 판별 웹서비스  
 AI 모델을 이용해 **토마토 잎의 질병을 자동 분류 및 정보 제공**하는 웹서비스를 개발했습니다.  
 Kaggle 데이터를 기반으로 **DenseNet 전이학습 모델**을 학습하고,  
 AI 모델과 Spring 서버를 연동해 실서비스를 완성했습니다.  
@@ -139,6 +139,6 @@ AI 모델과 Spring 서버를 연동해 실서비스를 완성했습니다.
 
 ---
 
-## :bulb: Contact
+## :postbox: Contact
 - **Email:** yanghyunjik99@gmail.com  
 - **Portfolio (Notion):** [Notion Portfolio Link](https://chatter-glider-3f4.notion.site/292b5b4ec16181578fc5dc7a69780ad3)
