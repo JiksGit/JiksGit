@@ -8,7 +8,7 @@ Spring Boot 기반 **MSA**, **Redis 실시간 처리** 등 아이디어를 실�
 
 ## :monocle_face: About Me
 
-최근에는 **‘K-pop 실시간 라이브 커머스 플랫폼 Universe’**를 개발하며  
+최근에는 **K-pop 실시간 라이브 커머스 플랫폼 Universe**를 개발하며  
 Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA 아키텍처**를 구현했습니다.  
 또한 **Redis 기반 실시간 채팅 시스템**과 **JWT 인증 구조**를 직접 설계해  
 실시간성, 보안성, 확장성을 모두 갖춘 서버 환경을 구축했습니다.
