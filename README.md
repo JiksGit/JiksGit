@@ -119,11 +119,6 @@ AI 모델과 Spring 서버를 연동해 실서비스를 완성했습니다.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiksGit&layout=compact&theme=default" height="150">
-  <img src="https://streak-stats.demolab.com/?user=JiksGit&theme=swift" height="150">
-</p>
-
-<p align="center">
   <a href="https://solved.ac/didguswlr">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=didguswlr" height="150">
   </a>
