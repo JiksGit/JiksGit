@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JiksGit&section=header&reversal=false&textBg=false&fontColor=black&fontAlign=50&animation=fadeIn)
 
 ## :technologist: Java & Spring Boot 기반 백엔드 개발자
-단순히 “작동하는 코드”보다 **확장성과 안정성**을 갖춘 백엔드 시스템을 설계합니다.  
+단순히 작동하는 코드보다 **확장성과 안정성**을 갖춘 백엔드 시스템을 설계합니다.  
 Spring Boot 기반 **MSA**, **Redis를 통한 채팅 실시간 처리** 등 아이디어를 실제 서비스로 구현하는 개발자입니다.
 
 ---
