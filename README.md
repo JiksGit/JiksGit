@@ -1,7 +1,7 @@
 ![](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JiksGit&section=header&reversal=false&textBg=false&fontColor=black&fontAlign=50&animation=fadeIn)
 
 ## :technologist: Java & Spring Boot 기반 백엔드 개발자
-단순히 작동하는 코드보다 **확장성과 안정성**을 갖춘 백엔드 시스템을 설계합니다.  
+단순히 작동하는 코드보다 **트랜잭션 보장, 데이터 일관성**을 고려하여 개발하고 있습니다.
 Spring Boot 기반 **MSA**, **Redis를 통한 채팅 실시간 처리** 등 아이디어를 실제 서비스로 구현하는 개발자입니다.
 
 ---
@@ -9,7 +9,7 @@ Spring Boot 기반 **MSA**, **Redis를 통한 채팅 실시간 처리** 등 아�
 ## :monocle_face: About Me
 
 최근에는 **K-pop 실시간 라이브 커머스 플랫폼 Universe**를 개발하며  
-Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA 아키텍처**를 구현했습니다.  
+Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA 아키텍처**를 경험했습니다.  
 또한 **Redis 기반 실시간 채팅 시스템**과 **JWT 인증 구조**를 직접 설계해  
 실시간성, 보안성, 확장성을 모두 갖춘 서버 환경을 구축했습니다.
 
