@@ -1,34 +1,39 @@
-![](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JiksGit&section=header&reversal=false&textBg=false&fontColor=black&fontAlign=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JiksGit&section=header&fontColor=000000&animation=fadeIn)
 
-## :technologist: Java & Spring Boot 기반 백엔드 개발자
-단순히 작동하는 코드보다 **트랜잭션 보장, 데이터 일관성**을 고려하여 개발하고 있습니다.
-Spring Boot 기반 **MSA**, **Redis를 통한 채팅 실시간 처리** 등 아이디어를 실제 서비스로 구현하는 개발자입니다.
+# 👋 안녕하세요~ 새로운 문제를 배우고 해결하며 성장하는 개발자 **양현직**입니다.
 
----
+가천대학교 컴퓨터공학과를 졸업하고 Java 기반 웹 기술을 중심으로  
+실무형 프로젝트와 교육을 통해 백엔드 개발 역량을 쌓았습니다.  
 
-## :monocle_face: About Me
+Spring Boot와 Spring Framework를 중심으로  
+**트랜잭션 처리로 데이터 무결성을 보장하고**,  
+**Redis 기반 실시간 처리와 MSA 설계**를 경험했습니다.  
 
-최근에는 **K-pop 실시간 라이브 커머스 플랫폼 Universe**를 개발하며  
-Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA 아키텍처**를 경험했습니다.  
-또한 **Redis 기반 실시간 채팅 시스템**과 **JWT 인증 구조**를 직접 설계해  
-실시간성, 보안성, 확장성을 모두 갖춘 서버 환경을 구축했습니다.
-
-“**더 효율적인 시스템은 어떻게 만들 수 있을까?**” 
+> “기술로 사람을 연결하고, 안정적인 시스템으로 신뢰를 만든다.”  
+> 이것이 제가 지향하는 개발자의 방향입니다.
 
 ---
 
-## :card_file_box: Tech Stack
+## 🧠 About Me
+
+최근에는 **K-pop 실시간 라이브 커머스 플랫폼 ‘Universe’** 프로젝트를 진행하며  
+Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **MSA 아키텍처**를 설계했습니다.  
+또한 **Redis 기반 실시간 채팅 시스템**과 **JWT 인증 구조**를 구현해 보안성과 확장성을 동시에 확보했습니다.
+
+---
+
+## ⚙️ Tech Stack
 
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FF6C37?style=flat-square&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-FF6C37?style=flat-square)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 > Java 기반 백엔드 서버 및 인증 구조(Spring Security + JWT) 설계  
-> ORM & Mapper 병행 사용 경험 (MyBatis / JPA)
+> ORM(JPA)과 Mapper(MyBatis) 병행 사용 경험
 
 ---
 
@@ -57,66 +62,71 @@ Spring Boot 기반의 Gateway, Eureka, Chat, Core 서비스를 분리해 **MSA �
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
-> 클라우드 환경에서 CI/CD 및 컨테이너 기반 배포 환경 구성  
-> Nginx 리버스 프록시 및 로드밸런싱 설정 경험
+> 클라우드 환경에서 CI/CD 파이프라인 구성 및 무중단 배포 경험  
+> Nginx 리버스 프록시 및 로드밸런싱 설정 실습
 
 ---
 
-### :busts_in_silhouette: Tools & Collaboration
+### 🤝 Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-> Git 브랜치 전략 기반 협업 / API 테스트 자동화 / 코드 리뷰 환경 구성
-
-
----
-
-## :iphone: Projects
-
-### :clapper: Project 1: K-pop 실시간 라이브 커머스 플랫폼 (Universe)  
-K-pop 관련 굿즈와 앨범을 실시간으로 판매할 수 있는 **라이브 커머스 플랫폼**을 개발했습니다.  
-팀장으로서 **아키텍처 설계와 역할 분담**을 맡아,  
-다수의 사용자가 동시에 접속하는 환경을 고려해 **Spring Boot 기반 Gateway·Eureka 구조의 MSA 시스템**을 구축했습니다.  
-
-- 상품 관리 기능에 페이지네이션 적용  
-- JPA Fetch Join으로 N+1 문제 해결 및 조회 성능 개선  
-- WebSocket + STOMP 기반 실시간 채팅 구축  
-- Redis를 활용한 욕설·도배 필터링 (Aho-Corasick + Rate Limiting) 구현  
-- 스트리밍 파일 저장 오류 수정으로 서비스 안정성 강화  
-
-**성과:** JPA 최적화, Redis 실시간 처리, MSA 설계, 코드 리뷰 기반 협업 역량 강화
+> Git 브랜치 전략 기반 협업 및 Pull Request 리뷰 프로세스 운영  
+> Swagger, Notion, Figma를 통한 설계 문서화 및 협업 관리
 
 ---
 
-### :framed_picture: Project 2: 디지털 콘텐츠(이미지, BGM) 공유 플랫폼  
-개발자와 디자이너가 프로젝트 제작에 필요한 **이미지와 BGM을 공유**할 수 있는 플랫폼을 개발했습니다.  
-팀장으로서 프로젝트 전반을 관리하며, **Spring Framework + MyBatis** 환경에서  
-상품 등록·수정·삭제 시 **트랜잭션 처리**를 적용해 데이터 무결성을 확보했습니다.  
+## 🚀 Projects
 
-- Spring Security + OAuth2.0 기반 Google, Naver, Kakao 로그인 연동  
-- 페이지별 접근 권한 부여로 보안 강화  
-- 쿼리 최적화 및 다중 테이블 매핑으로 조회 성능 향상  
-- JSP + Tomcat 기반 SSR 구조 구현 및 Servlet 요청 처리 흐름 이해  
+### 🎬 Universe – K-POP 라이브 커머스 플랫폼
+> 실시간 채팅으로 소통하며 상품을 구매할 수 있는 K-pop 라이브 커머스 플랫폼
 
-**성과:** 트랜잭션 처리, 보안 설계, SSR 및 서버 실행 환경 이해 역량 향상
+- **Spring Cloud Gateway + Eureka** 기반 MSA 유사 구조 설계  
+- 상품 등록·수정 시 `@Transactional`로 데이터 일관성 보장  
+- WebSocket + STOMP 기반 실시간 채팅 / Redis 캐싱 및 욕설 필터링  
+- JWT 기반 사용자 인증 및 블랙리스트 관리  
+- 팀장으로서 **WBS 기반 일정 관리**, **GitHub 코드 리뷰** 주도  
+
+**성과:** 서비스 안정성 확보, 코드 품질 개선, 협업 프로세스 효율화
 
 ---
 
-### :herb: Project 3: 토마토 잎 질병 판별 웹서비스  
-AI 모델을 이용해 **토마토 잎의 질병을 자동 분류 및 정보 제공**하는 웹서비스를 개발했습니다.  
-Kaggle 데이터를 기반으로 **DenseNet 전이학습 모델**을 학습하고,  
-AI 모델과 Spring 서버를 연동해 실서비스를 완성했습니다.  
+### 🎨 HotSource – 디지털 콘텐츠 공유 플랫폼
+> 개발자와 디자이너를 위한 이미지·BGM 자산 공유 플랫폼
 
-- 회원 관리, 게시판, 댓글 기능 구현  
+- Spring Security + OAuth2.0(Google, Naver, Kakao) 로그인 연동  
+- BCrypt + Salt 기반 비밀번호 암호화로 보안 강화  
+- MyBatis association/collection 매핑으로 N+1 쿼리 개선  
+- FileManager 유틸 클래스 생성으로 파일 업로드 구조 표준화  
+- `@Transactional` 기반 데이터 무결성 확보  
+
+**성과:** 보안 강화, 쿼리 최적화, 유지보수성 향상
+
+---
+
+### 🍅 Tomato Disease Classification – AI 기반 이미지 질병 판별 서비스
+> AI 모델(DenseNet)을 활용해 토마토 잎의 질병을 자동 분류하는 웹 서비스
+
+- DenseNet 전이학습 모델 학습 및 Spring Boot 연동  
 - JWT 인증 구조로 세션 부하 문제 해결  
-- Docker + AWS EC2·RDS 자동 배포로 운영 안정화  
-- AI 모델과 REST API 연동으로 실제 서비스화  
+- Docker 컨테이너 기반 AWS EC2·RDS 배포  
+- AI 예측 결과를 REST API로 서비스화  
 
-**성과:** AI 모델 실서비스 연동, 인증 구조 설계, 클라우드 자동 배포 경험 축적
+**성과:** AI 모델 실서비스 연동 및 클라우드 자동 배포 경험
 
 ---
+
+## 📜 Certificates
+- 정보처리기사  
+- SQLD (SQL 개발자)  
+- 네트워크 관리사 2급  
+
+---
+
+## 🧭 Stats
 
 <p align="center">
   <a href="https://solved.ac/didguswlr">
@@ -127,13 +137,7 @@ AI 모델과 Spring 서버를 연동해 실서비스를 완성했습니다.
 
 ---
 
-## :bookmark: Certificates
-- 정보처리기사  
-- 네트워크 관리사 2급  
-- SQLD (SQL 개발자)
-
----
-
-## :postbox: Contact
+## 📬 Contact
 - **Email:** yanghyunjik99@gmail.com  
-- **Portfolio (Notion):** [Notion Portfolio Link](https://chatter-glider-3f4.notion.site/292b5b4ec16181578fc5dc7a69780ad3)
+- **Portfolio:** [Notion Portfolio](https://chatter-glider-3f4.notion.site/292b5b4ec16181578fc5dc7a69780ad3)
+- **GitHub:** [github.com/JiksGit](https://github.com/JiksGit)
