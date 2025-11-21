@@ -139,5 +139,5 @@ Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **M
 
 ## Contact
 - **Email:** yanghyunjik99@gmail.com  
-- **Portfolio:** [Notion Portfolio](https://chatter-glider-3f4.notion.site/292b5b4ec16181578fc5dc7a69780ad3)
+- **Portfolio:** [Notion Portfolio](https://www.notion.so/2a2b5b4ec161803fbfddc3cff4dfd3c7)
 - **GitHub:** [github.com/JiksGit](https://github.com/JiksGit)
