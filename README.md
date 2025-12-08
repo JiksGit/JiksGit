@@ -80,7 +80,7 @@ Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **M
 
 ## Projects
 
-### 🎬 Universe – K-POP 라이브 커머스 플랫폼
+### <Universe> – K-POP 라이브 커머스 플랫폼
 > 실시간 채팅으로 소통하며 상품을 구매할 수 있는 K-pop 라이브 커머스 플랫폼
 
 - **Spring Cloud Gateway + Eureka** 기반 MSA 유사 구조 설계  
@@ -93,7 +93,7 @@ Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **M
 
 ---
 
-### 🎨 HotSource – 디지털 콘텐츠 공유 플랫폼
+### <HotSource> – 디지털 콘텐츠 공유 플랫폼
 > 개발자와 디자이너를 위한 이미지·BGM 자산 공유 플랫폼
 
 - Spring Security + OAuth2.0(Google, Naver, Kakao) 로그인 연동  
@@ -106,7 +106,7 @@ Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **M
 
 ---
 
-### 🍅 Tomato Disease Classification – AI 기반 이미지 질병 판별 서비스
+### <Tomato Disease Classification> – AI 기반 이미지 질병 판별 서비스
 > AI 모델(DenseNet)을 활용해 토마토 잎의 질병을 자동 분류하는 웹 서비스
 
 - DenseNet 전이학습 모델 학습 및 Spring Boot 연동  
