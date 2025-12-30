@@ -1,15 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=JiksGit&section=header&fontColor=000000&animation=fadeIn)
 
-# 👋 안녕하세요~! 새로운 문제를 배우고 해결하며 성장하는 개발자 **양현직**입니다.
+# 👋 안녕하세요~! 데이터의 안정성과 서비스의 신뢰성을 보장하는 개발자 **양현직**입니다.
 
 가천대학교 컴퓨터공학과를 졸업하고 Java 기반 웹 기술을 중심으로 실무형 프로젝트와 교육을 통해 백엔드 개발 역량을 쌓았습니다.  
 
 Spring Boot와 Spring Framework를 중심으로  
 **트랜잭션 처리로 데이터 무결성을 보장하고**
-**Redis 기반 채팅 서비스와 MSA 아키텍처**를 경험했습니다.  
-
-> “기술로 사람을 연결하고 안정적인 시스템으로 신뢰를 만든다.”  
-> 이것이 제가 지향하는 개발자의 방향입니다.
+**Redis 기반 채팅 서비스와 MSA 아키텍처**를 경험했습니다. 
 
 ---
 
@@ -42,8 +39,8 @@ Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **M
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-> React·Vue 기반 SPA 및 JSP 기반 SSR 프로젝트 경험  
-> UI 프레임워크 활용 및 데이터 바인딩 구조 설계
+> React, Vue 기반 SPA 기반 SSR 프로젝트 경험  
+> UI 프레임워크 및 데이터 바인딩 활용 
 
 ---
 
@@ -51,7 +48,7 @@ Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **M
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-> 관계형 DB 설계 및 Redis 기반 캐싱·실시간 데이터 처리 구현
+> 관계형 DB 설계 및 Redis 기반 캐싱, 실시간 데이터 처리 구현
 
 ---
 
@@ -94,7 +91,7 @@ Spring Boot 기반 **Gateway, Eureka, Chat, Core 서비스**를 분리하여 **M
 ---
 
 ### HotSource – 디지털 콘텐츠 공유 플랫폼
-> 개발자와 디자이너를 위한 이미지·BGM 자산 공유 플랫폼
+> 개발자와 디자이너를 위한 이미지 및 BGM 자산 공유 플랫폼
 
 - Spring Security + OAuth2.0(Google, Naver, Kakao) 로그인 연동  
 - BCrypt + Salt 기반 비밀번호 암호화로 보안 강화  
